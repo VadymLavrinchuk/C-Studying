@@ -1,0 +1,5 @@
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\bin\Release\hwless7ex2.exe.config
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\bin\Release\hwless7ex2.exe
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\bin\Release\hwless7ex2.pdb
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\obj\Release\hwless7ex2.exe
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\obj\Release\hwless7ex2.pdb

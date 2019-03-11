@@ -1,0 +1,11 @@
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\bin\Debug\hwless7ex2.exe.config
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\bin\Debug\hwless7ex2.exe
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\bin\Debug\hwless7ex2.pdb
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\obj\Debug\hwless7ex2.exe
+c:\Users\Вадим\documents\visual studio 2015\Projects\hwless7\hwless7ex2\obj\Debug\hwless7ex2.pdb
+C:\Users\Вадим\Documents\GitHub\C-Studying\hwless7ex2\bin\Debug\hwless7ex2.exe.config
+C:\Users\Вадим\Documents\GitHub\C-Studying\hwless7ex2\obj\Debug\hwless7ex2.exe
+C:\Users\Вадим\Documents\GitHub\C-Studying\hwless7ex2\obj\Debug\hwless7ex2.pdb
+C:\Users\Вадим\Documents\GitHub\C-Studying\hwless7ex2\bin\Debug\hwless7ex2.exe
+C:\Users\Вадим\Documents\GitHub\C-Studying\hwless7ex2\bin\Debug\hwless7ex2.pdb
+C:\Users\Вадим\Documents\GitHub\C-Studying\hwless7ex2\obj\Debug\hwless7ex2.csprojResolveAssemblyReference.cache
